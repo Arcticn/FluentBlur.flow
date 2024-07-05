@@ -1,15 +1,23 @@
 # ☁️Fluent Blur White
-Here's mine, a native-like and fluent blur white theme, provided both blur and non-blur version, because the blur effect have a problem at the corner at once.[https://github.com/Flow-Launcher/Flow.Launcher/issues/2387](https://github.com/Flow-Launcher/Flow.Launcher/issues/2387)
+Here's a native-like and fluent blur white theme for [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher), without border line. 
 
-You can download it from [here](https://github.com/Arcticn/FluentBlurWhite.flow) 
+Provided both blur and non-blur version, because the blur effect [have a problem at the corner](https://github.com/Flow-Launcher/Flow.Launcher/issues/2387) at once.
+
+## ✨Features
+- No border line
+- Blur white
+- Simple and native-like
+
 
 ## 🖼️Image
 ### Blur version
-![](https://p.inari.site/usr/876/6687be7ab59a8.png)
+![](https://p.inari.site/usr/876/6687d6834c4e3.png)
 ![](https://p.inari.site/usr/876/6687be965a25f.png)
-![](https://p.inari.site/usr/876/6687bf7210eaa.png)
-![](https://p.inari.site/usr/876/6687c341bd0d7.png)
+![](https://p.inari.site/usr/876/6687c46693d78.png)
 
 ### Non-Blur version
-![](https://p.inari.site/usr/876/6687c46693d78.png)
+![](https://p.inari.site/usr/876/6687d51f643dc.png)
+![](https://p.inari.site/usr/876/6687c341bd0d7.png)
+
+
 
