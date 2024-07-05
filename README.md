@@ -13,11 +13,10 @@ Provided both blur and non-blur version, because the blur effect [have a problem
 ### Blur version
 ![](https://p.inari.site/usr/876/6687d6834c4e3.png)
 ![](https://p.inari.site/usr/876/6687be965a25f.png)
-![](https://p.inari.site/usr/876/6687c46693d78.png)
+![](https://p.inari.site/usr/876/6687c341bd0d7.png)
 
 ### Non-Blur version
 ![](https://p.inari.site/usr/876/6687d51f643dc.png)
-![](https://p.inari.site/usr/876/6687c341bd0d7.png)
-
+![](https://p.inari.site/usr/876/6687c46693d78.png)
 
 
