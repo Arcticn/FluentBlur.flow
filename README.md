@@ -22,9 +22,8 @@ Provided both blur and non-blur version, because the blur effect [have a problem
 ![](https://p.inari.site/usr/876/6687c46693d78.png)
 
 ### Blur Version(Black)
-![](https://p.inari.site/usr/876/6689fba999938.png)
+![](https://p.inari.site/usr/876/668a00259b986.png)
 
 ### Non-Blur Version(Black)
-![](https://p.inari.site/usr/876/6689fbd06804c.png)
-
+![](https://p.inari.site/usr/876/668a0044497d1.png)
 
