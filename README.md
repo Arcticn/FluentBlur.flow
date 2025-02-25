@@ -3,7 +3,7 @@
 
 Here's a native-like and fluent blur theme for [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher), without border line. 
 
-Provided both blur and non-blur version, because the blur effect [have a problem at the corner](https://github.com/Flow-Launcher/Flow.Launcher/issues/2387) at once.
+Provided both blur and non-blur version, because the blur effect [have a problem at the corner](https://github.com/Flow-Launcher/Flow.Launcher/issues/2387).
 
 ## ✨Features
 - No border line
