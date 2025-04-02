@@ -1,9 +1,5 @@
 # ☁️ Fluent Blur
-*Black Version is available, the color basically based on Nord theme*
-
 Here's a native-like and fluent blur theme for [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher), without border line. 
-
-Provided both blur and non-blur version.
 
 Update:
 1. Non-blur version is available
